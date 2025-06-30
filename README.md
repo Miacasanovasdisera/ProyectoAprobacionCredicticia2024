@@ -67,7 +67,7 @@ jupyter notebook notebooks/CasanovasDiSera_.ipynb
 ## ✍️ Autor
 
 Mia Casanovas Di Sera  
-[LinkedIn](https://linkedin.com/in/tuusuario) • [GitHub](https://github.com/miacasanovas)
+[LinkedIn](https://linkedin.com/in/mia-casanovas-di-sera-b1b865296) • [GitHub](https://github.com/miacasanovas)
 
 ## 📄 Licencia
 
